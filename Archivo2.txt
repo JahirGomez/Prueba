@@ -1,1 +1,1 @@
-This is not a "Hello world!" :(
+This is now a "Hello world!"
